@@ -160,7 +160,7 @@ const NavBar = () => {
           </li>
           <li className="w-[300px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-black">
             <a
-              href=""
+              href="https://github.com/akshaiKumar23/"
               className="flex justify-between items-center w-full  text-gray-300"
             >
               Github <FaGithub size={30} />
@@ -168,7 +168,7 @@ const NavBar = () => {
           </li>
           <li className="w-[300px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-green-500">
             <a
-              href=""
+              href="mailto:akshaik610@gmail.com"
               className="flex justify-between items-center w-full  text-gray-300"
             >
               Email <HiOutlineMail size={30} />
@@ -176,7 +176,7 @@ const NavBar = () => {
           </li>
           <li className="w-[300px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
-              href=""
+              href="https://drive.google.com/file/d/1i_GmZC4_oGoTz5g3buwroLAriuXoO4gr/view?usp=sharing"
               className="flex justify-between items-center w-full  text-gray-300"
             >
               Resume <BsPersonLinesFill size={30} />

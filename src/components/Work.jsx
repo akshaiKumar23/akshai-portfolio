@@ -24,13 +24,13 @@ const Work = () => {
               <span className="text-2xl font-bold text-white tracking-wider">
                 ReactJS Application
               </span>
-              <div className="pt-8 text-center">
-                <a href="">
+              <div className="pt-8 text-center justify-center">
+                <a href="https://akshai-game-hub.vercel.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="">
+                <a href="https://github.com/akshaiKumar23/Akshai-game-hub">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -43,16 +43,16 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                Data Analysis Web App
+              <span className="text-2xl font-bold text-white tracking-wider ">
+                Data Analysis
               </span>
               <div className="pt-8 text-center">
-                <a href="">
+                <a href="https://ak-olympic-data-analysis.streamlit.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="">
+                <a href="https://github.com/akshaiKumar23/Olympic-data-analysis">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
@@ -69,12 +69,12 @@ const Work = () => {
                 ML Prediction Web App
               </span>
               <div className="pt-8 text-center">
-                <a href="">
+                <a href="https://ipl-prediction-ak.streamlit.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="">
+                <a href="https://github.com/akshaiKumar23/ipl-prediction">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
