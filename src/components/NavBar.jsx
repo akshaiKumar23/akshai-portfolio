@@ -152,7 +152,7 @@ const NavBar = () => {
         <ul>
           <li className="w-[300px] h-[60px] flex justify-end items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
             <a
-              href=""
+              href="https://www.linkedin.com/in/akshaiKumar23/"
               className="flex justify-between items-center w-full  text-gray-300"
             >
               Linkedin <FaLinkedin size={30} />
